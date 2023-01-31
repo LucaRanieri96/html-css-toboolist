@@ -31,7 +31,9 @@ img {
     height: auto;
     vertical-align: middle;
 }
-
+main{
+    line-height: 2em;
+}
 .b-properties {
     background-color: white;
     width: 70%;
@@ -85,6 +87,30 @@ img {
 
 .blue-badge {
     background-color: #45abea;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+.violet-badge {
+    background-color:#9c72e4;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+.green-badge{
+    background-color:#64c0a9;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+.orange-badge{
+    background-color:#f29e33;
     border-radius: 15px;
     border: none;
     color: white;
