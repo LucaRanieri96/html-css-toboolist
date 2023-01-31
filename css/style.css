@@ -33,31 +33,24 @@ img {
 main {
     line-height: 2em;
 }
-
-.b-properties {
+.container{
     background-color: white;
     width: 70%;
     box-sizing: border-box;
     margin: auto;
-    margin-top: 40px;
-    border-radius: 4px 4px 0px 0px;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 50px;
 }
+.b-properties {
+    margin-top: 40px;
+    border-radius: 4px 4px 0px 0px; 
+}
 
 .t-properties {
-    background-color: white;
-    width: 70%;
-    box-sizing: border-box;
-    margin: auto;
     margin-top: 3px;
-    border-radius: 0px 0px 4px 4px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 50px;
+    border-radius: 0px 0px 4px 4px;    
 }
 
 #b-task {
