@@ -44,6 +44,20 @@ img {
     padding-bottom: 10px;
     padding-left: 50px;
 }
+
+.t-properties {
+    background-color: white;
+    width: 70%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 3px;
+    border-radius: 0px 0px 4px 4px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
 #b-task {
     background-color: #45abea;
     border-radius: 4px;
@@ -52,14 +66,28 @@ img {
     padding: 7px 10px;
     font-size: 12px;
 }
-#b-section{
+
+#b-section {
     background-color: transparent;
     padding: 5px 10px;
     font-size: 12px;
     color: lightgrey;
     border-radius: 4px;
-}   
-    
-    
-    
+}
 
+.vertical-align {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+    color: #444851;
+    padding-top: 20px;
+}
+
+.blue-badge {
+    background-color: #45abea;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 10px;
+}
