@@ -8,6 +8,8 @@ body {
     padding: 0;
 }
 
+
+
 .app-header {
     box-sizing: border-box;
     width: 100%;
@@ -18,7 +20,7 @@ h1 {
     display: inline-block;
     font-size: 40px;
     vertical-align: middle;
-    
+
 }
 
 img {
@@ -29,3 +31,35 @@ img {
     height: auto;
     vertical-align: middle;
 }
+
+.b-properties {
+    background-color: white;
+    width: 70%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 4px 4px 0px 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+#b-task {
+    background-color: #45abea;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 12px;
+}
+#b-section{
+    background-color: transparent;
+    padding: 5px 10px;
+    font-size: 12px;
+    color: lightgrey;
+    border-radius: 4px;
+}   
+    
+    
+    
+
