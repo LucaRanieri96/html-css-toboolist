@@ -1,5 +1,6 @@
 body {
     font-family: 'Ubuntu', sans-serif;
+    background-color: #f6f8f9;
 }
 
 * {
@@ -10,6 +11,7 @@ body {
 .app-header {
     box-sizing: border-box;
     width: 100%;
+    background-color: white;
 }
 
 h1 {
@@ -20,7 +22,7 @@ h1 {
 }
 
 img {
-    padding-left: 5px;
+    padding-left: 20px;
     padding-right: 5px;
     padding-top: 5px;
     padding-bottom: 5px;
