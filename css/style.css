@@ -8,8 +8,6 @@ body {
     padding: 0;
 }
 
-
-
 .app-header {
     box-sizing: border-box;
     width: 100%;
@@ -31,9 +29,11 @@ img {
     height: auto;
     vertical-align: middle;
 }
-main{
+
+main {
     line-height: 2em;
 }
+
 .b-properties {
     background-color: white;
     width: 70%;
@@ -85,35 +85,34 @@ main{
     padding-top: 20px;
 }
 
-.blue-badge {
+.badge {
+    border-radius: 15px;
+    border: none;
+    color: white;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+
+.blue-b {
     background-color: #45abea;
-    border-radius: 15px;
-    border: none;
-    color: white;
-    padding: 7px 10px;
-    font-size: 10px;
 }
-.violet-badge {
-    background-color:#9c72e4;
-    border-radius: 15px;
-    border: none;
-    color: white;
-    padding: 7px 10px;
-    font-size: 10px;
+
+.violet-b {
+    background-color: #9c72e4;
 }
-.green-badge{
-    background-color:#64c0a9;
-    border-radius: 15px;
-    border: none;
-    color: white;
-    padding: 7px 10px;
-    font-size: 10px;
+
+.green-b {
+    background-color: #64c0a9;
 }
-.orange-badge{
-    background-color:#f29e33;
-    border-radius: 15px;
-    border: none;
-    color: white;
-    padding: 7px 10px;
-    font-size: 10px;
+
+.orange-b {
+    background-color: #f29e33;
+}
+
+.pink-b {
+    background-color: #d863a1;
+}
+
+.lime-b {
+    background-color: #b0c926;
 }
